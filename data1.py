@@ -12,3 +12,4 @@ x=int(input('enter first integer:'))
 y=int(input('enter second integer:'))
 print('product is',multi(x,y))
 
+print('hello world')
